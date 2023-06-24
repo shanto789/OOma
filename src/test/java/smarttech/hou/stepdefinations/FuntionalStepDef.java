@@ -82,7 +82,7 @@ public class FuntionalStepDef extends ParentClass {
 
 	@When("User should be able to enter the shipping details and click on the Next")
 	public void user_should_be_able_to_enter_the_shipping_details_and_click_on_the_next() {
-		driver.findElement(By.xpath("(//*[@type='text'])[1]")).sendKeys("shanto"); 
+	
 		
 		
 	}
