@@ -643,3 +643,28 @@
 2023-06-24 14:44:21,840 - Luma E-Commerce -INFO - ooomaaaa>>>>  User able to hover over top men module >>>> goo
 2023-06-24 14:44:22,001 - Luma E-Commerce -INFO - ooomaaaa>>>>  User able to hover over tops inside the men module >>>> goo
 2023-06-24 14:44:22,159 - Luma E-Commerce -INFO - ooomaaaa>>>>  User able to click on jacket>>>> goo
+2023-06-24 19:45:00,157 - Luma E-Commerce -INFO - >>>> Test Execute On Chrome Browser>>>>
+2023-06-24 19:45:00,629 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-06-24 19:45:00,654 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\shant\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-06-24 19:45:04,123 - Luma E-Commerce -INFO - ooomaaaa>>>> User can click on sign In BTN>>>> goo
+2023-06-24 19:45:05,578 - Luma E-Commerce -INFO - ooomaaaa>>>> User can enter the userName>>>> goo
+2023-06-24 19:45:05,833 - Luma E-Commerce -INFO - ooomaaaa>>>>User can enter the Password>>>> goo
+2023-06-24 19:45:05,953 - Luma E-Commerce -INFO - ooomaaaa>>>> User can click on log In BTN>>>> goo
+2023-06-24 19:45:12,536 - Luma E-Commerce -INFO - ooomaaaa>>>> User able to verify user info on the screen>>>> goo
+2023-06-24 19:45:12,594 - Luma E-Commerce -INFO - ooomaaaa>>>>  User able to hover over top men module >>>> goo
+2023-06-24 19:45:12,766 - Luma E-Commerce -INFO - ooomaaaa>>>>  User able to hover over tops inside the men module >>>> goo
+2023-06-24 19:45:12,926 - Luma E-Commerce -INFO - ooomaaaa>>>>  User able to click on jacket>>>> goo
+2023-07-04 01:31:20,430 - Luma E-Commerce -INFO - >>>> Test Execute On Chrome Browser>>>>
+2023-07-04 01:31:21,275 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-04 01:31:21,335 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\shant\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-04 01:32:49,083 - Luma E-Commerce -INFO - >>>> Test Execute On Chrome Browser>>>>
+2023-07-04 01:32:49,248 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-04 01:32:49,274 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\shant\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-04 01:32:51,703 - Luma E-Commerce -INFO - ooomaaaa>>>> User can click on sign In BTN>>>> goo
+2023-07-04 01:32:52,744 - Luma E-Commerce -INFO - ooomaaaa>>>> User can enter the userName>>>> goo
+2023-07-04 01:32:52,991 - Luma E-Commerce -INFO - ooomaaaa>>>>User can enter the Password>>>> goo
+2023-07-04 01:32:53,066 - Luma E-Commerce -INFO - ooomaaaa>>>> User can click on log In BTN>>>> goo
+2023-07-04 01:32:59,454 - Luma E-Commerce -INFO - ooomaaaa>>>> User able to verify user info on the screen>>>> goo
+2023-07-04 01:32:59,510 - Luma E-Commerce -INFO - ooomaaaa>>>>  User able to hover over top men module >>>> goo
+2023-07-04 01:32:59,684 - Luma E-Commerce -INFO - ooomaaaa>>>>  User able to hover over tops inside the men module >>>> goo
+2023-07-04 01:32:59,844 - Luma E-Commerce -INFO - ooomaaaa>>>>  User able to click on jacket>>>> goo

@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="smarttech.hou.myrunner.TestRunner">
+      <class name="api.rest.RestAuto">
         <methods>
-          <include name="runScenario" invocation-numbers="0"/>
-          <include name="tearDownClass"/>
-          <include name="setUpClass"/>
+          <include name="deleteReadTheDataFromServer"/>
         </methods>
-      </class> <!-- smarttech.hou.myrunner.TestRunner -->
+      </class> <!-- api.rest.RestAuto -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
